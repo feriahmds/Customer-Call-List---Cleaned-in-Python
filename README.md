@@ -1,9 +1,7 @@
-# 📞 Pembersihan Data Daftar Panggilan Pelanggan dengan Python
-
 Repositori ini berisi notebook Jupyter yang digunakan untuk melakukan pembersihan data pada *Customer Call List* menggunakan Python dan library Pandas. Proyek ini dirancang untuk menunjukkan proses dasar data cleaning dari dataset pelanggan yang umum digunakan dalam aktivitas pemasaran atau pelayanan pelanggan.
 
 ## 🧰 Tools & Library
-- Python 3.x
+- Python
 - Pandas
 - Jupyter Notebook
 - Excel (.xlsx)
